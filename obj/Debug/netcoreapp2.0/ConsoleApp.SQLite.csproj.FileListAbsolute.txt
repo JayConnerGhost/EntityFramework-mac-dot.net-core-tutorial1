@@ -1,0 +1,10 @@
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/bin/Debug/netcoreapp2.0/ConsoleApp.SQLite.deps.json
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/bin/Debug/netcoreapp2.0/ConsoleApp.SQLite.runtimeconfig.json
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/bin/Debug/netcoreapp2.0/ConsoleApp.SQLite.runtimeconfig.dev.json
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/bin/Debug/netcoreapp2.0/ConsoleApp.SQLite.dll
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/bin/Debug/netcoreapp2.0/ConsoleApp.SQLite.pdb
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/obj/Debug/netcoreapp2.0/ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/obj/Debug/netcoreapp2.0/ConsoleApp.SQLite.AssemblyInfoInputs.cache
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/obj/Debug/netcoreapp2.0/ConsoleApp.SQLite.AssemblyInfo.cs
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/obj/Debug/netcoreapp2.0/ConsoleApp.SQLite.dll
+/Users/GhostGirl/development/dotnet/ConsoleApp.SQLite/obj/Debug/netcoreapp2.0/ConsoleApp.SQLite.pdb
